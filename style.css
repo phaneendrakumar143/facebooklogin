@@ -1,0 +1,53 @@
+body {
+    display: grid;
+    place-items: center;
+}
+
+.main {
+    margin-top: 50px;
+    width: 450px;
+    height: 650px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 5px 5px grey;
+}
+
+.one {
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.one input {
+    display: block;
+    margin-top: 10px;
+    width: 360px;
+    height: 35px;
+    border: 1px solid rgb(254, 229, 233);
+    ;
+    background-color: rgb(254, 229, 233);
+    border-radius: 10px;
+}
+
+.two {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.three {
+    font-size: 20px;color: aliceblue;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 360px;
+    height: 35px;
+    border: 1px solid rgb(75, 246, 75);
+    background-color: rgb(46, 204, 46);
+    border-radius: 10px;
+    padding-top: 15px;
+}
+.three a{
+    text-decoration: none;
+}
